@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @honeybather
-- 👀 I’m interested in web development and travel.
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning advanced JavaScript and Flask.
 - 💞️ I’m looking to collaborate on exciting web projects.
 - 📫 How to reach me: via email at rita.galzour@gmail.com
