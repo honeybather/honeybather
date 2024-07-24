@@ -5,3 +5,5 @@
 - 📫 How to reach me: via email at rita.galzour@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I enjoy long biking adventures and training in Muay Thai.
+
+**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and unicorns**&nbsp;&nbsp;![](unicorn.gif)
