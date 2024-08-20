@@ -10,13 +10,14 @@
 
 ```python
 class Me:
-    def __init__(self, name, description, languages):
+    def __init__(self):
         self.name = "Rita Galkov"
-        self.description = "Graduate at Hackbright Academy exploring new opportunities in software engineering."
+        self.pronouns = "She/Her"
+        self.interests = "Web development"
+        self.learning = "PHP and WordPress"
+        self.collaboration = "Looking to collaborate on exciting web projects"
+        self.fun_fact = "I enjoy long biking adventures and training Muay Thai"
         self.languages = ["Python", "JavaScript"]
-        self.frameworks = ["Flask", "React"]
-        self.technologies = ["HTML", "CSS", "JSON"]
-        self.methodologies = ["Agile", "Scrum"]
 ```
 
 <a href="https://www.linkedin.com/in/ritagalkov/" target="_blank">
