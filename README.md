@@ -1,11 +1,11 @@
 ## Hi! I'm Rita, Nice to meet you 😁
 
-👋 Hi, I’m @honeybather
-👀 I’m interested in web development.
-🌱 I’m currently learning advanced JavaScript and Flask.
-💞️ I’m looking to collaborate on exciting web projects.
-😄 Pronouns: She/Her
-⚡️ Fun fact: I enjoy long biking adventures and training Muay Thai.
+- 👋 Hi, I’m @honeybather
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning advanced JavaScript and Flask.
+- 💞️ I’m looking to collaborate on exciting web projects.
+- 😄 Pronouns: She/Her
+- ⚡️ Fun fact: I enjoy long biking adventures and training Muay Thai.
 
 ```python
 class Me:
