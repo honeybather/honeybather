@@ -7,7 +7,6 @@ class Me:
         self.pronouns = "She/Her"
         self.interests = "Web development"
         self.learning = "PHP and WordPress"
-        self.collaboration = "Looking to collaborate on exciting web projects"
         self.fun_fact = "I enjoy long biking adventures and training Muay Thai"
         self.languages = ["Python", "JavaScript"]
 ```
