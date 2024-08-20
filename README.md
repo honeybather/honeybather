@@ -17,10 +17,7 @@
 class Me:
     def __init__(self, name, description, languages):
         self.name = "Rita Galkov"
-        self.description = "Student at Hackbright Academy exploring new opportunities in software engineering."
+        self.description = "Graduate at Hackbright Academy exploring new opportunities in software engineering."
         self.languages = ["Python", "JavaScript", "Flask"]
 
-
-# Updating description
-my_profile.update_description("Software engineer with a focus on web development and a passion for learning.")
 
