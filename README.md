@@ -14,38 +14,13 @@
 ## About Me
 
 ```python
-class Profile:
+class Me:
     def __init__(self, name, description, languages):
-        self.name = name
-        self.description = description
-        self.languages = languages
-    
-    def __str__(self):
-        return f"Name: {self.name}\nDescription: {self.description}\nLanguages: {', '.join(self.languages)}"
+        self.name = "Rita Galkov"
+        self.description = "Student at Hackbright Academy exploring new opportunities in software engineering."
+        self.languages = ["Python", "JavaScript", "Flask"]
 
-    def add_language(self, language):
-        if language not in self.languages:
-            self.languages.append(language)
-    
-    def update_description(self, new_description):
-        self.description = new_description
-
-# Creating an instance with my information
-my_profile = Profile(
-    name="Rita Galkov",
-    description="Student at Hackbright Academy exploring new opportunities in software engineering.",
-    languages=["Python", "JavaScript", "Flask"]
-)
-
-# Print profile details
-print(my_profile)
-
-# Adding a new language
-my_profile.add_language("Java")
 
 # Updating description
 my_profile.update_description("Software engineer with a focus on web development and a passion for learning.")
 
-# Print updated profile details
-print("\nUpdated Profile:")
-print(my_profile)
