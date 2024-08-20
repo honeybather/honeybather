@@ -4,7 +4,6 @@
 class Me:
     def __init__(self):
         self.name = "Rita Galkov"
-        self.pronouns = "She/Her"
         self.interests = "Web development"
         self.learning = "PHP and WordPress"
         self.fun_fact = "I enjoy long biking adventures and training Muay Thai"
