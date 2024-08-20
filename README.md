@@ -1,4 +1,4 @@
-## 👋 Hi! Nice to Meet you 💞️
+##  Hi! Nice to Meet you :)
 
 - 👋 I’m @honeybather
 - 👀 I’m interested in web development.
