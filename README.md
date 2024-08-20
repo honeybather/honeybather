@@ -1,13 +1,18 @@
 ## Hi! I'm Rita, Nice to meet you 😁
 
+	•	👋 Hi, I’m @honeybather
+	•	👀 I’m interested in web development.
+	•	🌱 I’m currently learning advanced JavaScript and Flask.
+	•	💞️ I’m looking to collaborate on exciting web projects.
+	•	😄 Pronouns: She/Her
+	•	⚡ Fun fact: I enjoy long biking adventures and training Muay Thai.
+
 ```python
 class Me:
     def __init__(self, name, description, languages):
         self.name = "Rita Galkov"
         self.description = "Graduate at Hackbright Academy exploring new opportunities in software engineering."
         self.languages = ["Python", "JavaScript", "Flask"]
-
-
 ```
 
 <a href="https://www.linkedin.com/in/ritagalkov/" target="_blank">
