@@ -11,7 +11,10 @@ class Me:
     def __init__(self, name, description, languages):
         self.name = "Rita Galkov"
         self.description = "Graduate at Hackbright Academy exploring new opportunities in software engineering."
-        self.languages = ["Python", "JavaScript", "Flask"]
+        self.languages = ["Python", "JavaScript"]
+        self.frameworks = ["Flask", "React"]
+        self.technologies = ["HTML", "CSS", "JSON"]
+        self.methodologies = ["Agile", "Scrum"]
 ```
 
 <a href="https://www.linkedin.com/in/ritagalkov/" target="_blank">
