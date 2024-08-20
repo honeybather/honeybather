@@ -1,12 +1,6 @@
 <img width="986" alt="Screenshot 2024-08-20 at 11 08 40 AM" src="https://github.com/user-attachments/assets/19582562-65ba-4894-a0da-820513d5d3bd">
 
-## 👋 Hi! Nice to Meet you :)
-
-- 😄 Pronouns: She/Her
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning PHP and Wordpress.
-- 💞️ I’m looking to collaborate on exciting web projects.
-- ⚡️ Fun fact: I enjoy long biking adventures and training Muay Thai.
+## 👋 Hi! Nice to Meet you 💞️
 
 ```python
 class Me:
