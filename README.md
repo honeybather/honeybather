@@ -4,12 +4,6 @@
 - 💞️ I’m looking to collaborate on exciting web projects.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I enjoy long biking adventures and training Muay Thai.
-
-class Me:
-  def __init__(self):
-      self.name = "Shepard"
-      self.description = "Student at Baylor University studying Computer Science, Finance, and Mathematics"
-      self.languages = ["C++", "Python", "Java"]
       
 
 <a href="https://www.linkedin.com/in/ritagalkov/" target="_blank">
